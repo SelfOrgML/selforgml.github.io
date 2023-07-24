@@ -18,21 +18,15 @@ We are going to put emphasis on cases of hierarchical organization of virtual ma
 
 ## Lenia with EvoJAX/Sax demo
 
-### Lenia basics
-
 - From Conway to Lenia ([with results](https://bit.ly/ConwayToLenia)) ([minimal](https://bit.ly/ConwayToLeniaSmall))
 
-- [Lenia with JAX](https://bit.ly/LeniaJAX)
-
-- [Flow Lenia](https://bit.ly/FlowLenia) 
-
-### Lenia with evolutionary algorithms
+- [Lenia in JAX](https://bit.ly/LeniaJAX)
 
 - [Lenia with EvoJAX](https://bit.ly/LeniaEvoJAX)
 
-- [Flow Lenia with EvoSax](https://bit.ly/EvoFlow)
+- [Flow Lenia](https://bit.ly/FlowLenia) 
 
-### Lenia with gradient descent
+- [Flow Lenia with EvoSax](https://bit.ly/EvoFlow)
 
 - [Training Sensorimotor Agency](https://bit.ly/DiffLenia2)
 
