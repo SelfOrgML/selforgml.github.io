@@ -12,37 +12,29 @@ We are going to put emphasis on cases of hierarchical organization of virtual ma
 
 ## Particle swarm pattern formation demo
 
-[Colab](https://colab.research.google.com/github/SelfOrgML/selforgml.github.io/blob/main/pattern_formation_alife23.ipynb)
+- [Colab](https://colab.research.google.com/github/SelfOrgML/selforgml.github.io/blob/main/pattern_formation_alife23.ipynb)
 
-[Web Demo](https://znah.net/icra23/)
+- [Web Demo](https://znah.net/icra23/)
 
 ## Lenia with EvoJAX/Sax demo
 
-### Python libraries
-
-EvoJAX: [github.com/google/evojax](https://github.com/google/evojax)
-
-EvoSax: [github.com/RobertTLange/evosax](https://github.com/RobertTLange/evosax)
-
 ### Lenia basics
 
-From Conway to Lenia (with results): [bit.ly/ConwayToLenia](https://bit.ly/ConwayToLenia)
+- From Conway to Lenia ([with results](https://bit.ly/ConwayToLenia)) ([minimal](https://bit.ly/ConwayToLeniaSmall))
 
-From Conway to Lenia (minimal): [bit.ly/ConwayToLeniaSmall](https://bit.ly/ConwayToLeniaSmall)
+- [Lenia with JAX](https://bit.ly/LeniaJAX)
 
-### Lenia with gradient descent
-
-Training Sensorimotor Agency: [bit.ly/DiffLenia2](https://bit.ly/DiffLenia2)
+- [Flow Lenia](https://bit.ly/FlowLenia) 
 
 ### Lenia with evolutionary algorithms
 
-Lenia with JAX: [bit.ly/LeniaJAX](https://bit.ly/LeniaJAX)
+- [Lenia with EvoJAX](https://bit.ly/LeniaEvoJAX)
 
-Lenia with EvoJAX: [bit.ly/LeniaEvoJAX](https://bit.ly/LeniaEvoJAX)
+- [Flow Lenia with EvoSax](https://bit.ly/EvoFlow)
 
-Flow Lenia: [bit.ly/FlowLenia](https://bit.ly/FlowLenia)
+### Lenia with gradient descent
 
-Flow Lenia with EvoSax: [bit.ly/EvoFlow](https://bit.ly/EvoFlow)
+- [Training Sensorimotor Agency](https://bit.ly/DiffLenia2)
 
 # Organizers
 
