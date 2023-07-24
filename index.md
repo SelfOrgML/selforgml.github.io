@@ -13,6 +13,7 @@ We are going to put emphasis on cases of hierarchical organization of virtual ma
 ## Particle swarm pattern formation demo
 
 [Colab](https://colab.research.google.com/github/SelfOrgML/selforgml.github.io/blob/main/pattern_formation_alife23.ipynb)
+
 [Web Demo](https://znah.net/icra23/)
 
 ## Lenia with EvoJAX/Sax demo
