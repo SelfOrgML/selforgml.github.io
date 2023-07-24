@@ -32,11 +32,11 @@ We are going to put emphasis on cases of hierarchical organization of virtual ma
 
 # Organizers
 
-[Bert Chan](https://chakazul.github.io/) – Google Research, Brain Tokyo
+[Bert Chan](https://chakazul.github.io/) – Google DeepMind, Tokyo
 
 [Alexander Mordvintsev](https://znah.net/) – Google Research, Zurich
 
-Bert Chan is a Research Engineer in Google Brain Tokyo. His research interests include artificial life and evolutionary computation. He discovered a complex adaptive system called Lenia, for which he received the Outstanding Publication of 2019 award by the International Society for Artificial Life. Bert is also an external collaborator at Inria Bordeaux, and a visiting scholar at the Institute for Advanced Study, Princeton.
+Bert Chan is a Research Engineer in Google DeepMind. His research interests include artificial life and evolutionary computation. He discovered a complex adaptive system called Lenia, for which he received the Outstanding Publication of 2019 award by the International Society for Artificial Life. Bert is also an external collaborator at Inria Bordeaux, and a visiting scholar at the Institute for Advanced Study, Princeton.
 Past talks: [Training Sensorimotor Agency in Cellular Automata](https://www.youtube.com/watch?v=FU6BGUwHcg0) at Cohere, 2022
 
 Alexander Mordvintsev is a Research Scientist in Google Zurich. He works on practical methods for self-organizing systems engineering. His recent research focuses on applying differentiable optimization to learn local policies capable of reaching global goals in multiagent systems, like Neural Cellular Automata or Particle Lenia. Previously Alexander worked on analyzing and visualizing deep neural network models and was responsible for creation of the viral DeepDream algorithm.
