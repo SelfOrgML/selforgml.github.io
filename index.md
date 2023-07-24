@@ -8,6 +8,40 @@ In this tutorial, we are going to demonstrate how we can use machine learning as
 
 We are going to put emphasis on cases of hierarchical organization of virtual matter, when higher-level structures demonstrate the characteristics of agent-like behavior. Examples include: Neural Cellular Automata (NCA), where self-organizing patterns can be trained using gradient descent and back-propagation-through-time to reproduce a texture or auto-classify symbols, with capabilities of spontaneous regeneration and noise resistance; complex adaptive systems called Lenia, where agent-like localized patterns (or “virtual creatures”) are trained for agent-agent and agent-environment interactions inside a virtual environment; Flow Lenia, where mass conservation law is incorporated into Lenia such that energy constraints and species-species interactions become feasible; and Particle Lenia, where the concept of energy minimization is introduced in Lenia applied to a particle system.
 
+# Materials
+
+## Particle swarm pattern formation demo
+
+
+
+## Lenia with EvoJAX/Sax demo
+
+### Python libraries
+
+EvoJAX: [github.com/google/evojax](https://github.com/google/evojax)
+
+EvoSax: [github.com/RobertTLange/evosax](https://github.com/RobertTLange/evosax)
+
+### Lenia basics
+
+From Conway to Lenia (with results): [bit.ly/ConwayToLenia](https://bit.ly/ConwayToLenia)
+
+From Conway to Lenia (minimal): [bit.ly/ConwayToLeniaSmall](https://bit.ly/ConwayToLeniaSmall)
+
+### Lenia with gradient descent
+
+Training Sensorimotor Agency: [bit.ly/DiffLenia2](https://bit.ly/DiffLenia2)
+
+### Lenia with evolutionary algorithms
+
+Lenia with JAX: [bit.ly/LeniaJAX](https://bit.ly/LeniaJAX)
+
+Lenia with EvoJAX: [bit.ly/LeniaEvoJAX](https://bit.ly/LeniaEvoJAX)
+
+Flow Lenia: [bit.ly/FlowLenia](https://bit.ly/FlowLenia)
+
+Flow Lenia with EvoSax: [bit.ly/EvoFlow](https://bit.ly/EvoFlow)
+
 # Organizers
 
 [Bert Chan](https://chakazul.github.io/) – Google Research, Brain Tokyo
